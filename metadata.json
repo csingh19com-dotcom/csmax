@@ -1,0 +1,6 @@
+{
+  "name": "MOON AI",
+  "description": "MOON AI — Learn Beyond Limits. Reach for the Moon. A futuristic, AI-powered cosmic education platform created by Chandrashekhar Singh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
